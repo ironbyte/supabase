@@ -146,7 +146,7 @@
     "config": "*",
     "jest": "^27.4.0",
     "jest-canvas-mock": "^2.3.1",
-    "postcss": "^8.4.6",
+    "postcss": "^8.4.31",
     "prettier": "^2.7.1",
     "storybook-dark-mode": "^1.0.4",
     "superjson": "^1.12.2",
